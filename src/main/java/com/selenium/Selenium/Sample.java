@@ -11,5 +11,11 @@ public class Sample {
 		System.out.println("Welcome to selenium");
 	}
 
+@Test
+	
+	public void WelcomeTest2() {
+		
+		System.out.println("Thanks  to selenium");
+	}
 
 }
